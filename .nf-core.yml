@@ -1,4 +1,4 @@
 repository_type: pipeline
-template:
-  prefix: nf-core
-  skip: []
+lint:
+    files_unchanged:
+        - CODE_OF_CONDUCT.md
